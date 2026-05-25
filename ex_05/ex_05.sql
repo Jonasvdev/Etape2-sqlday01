@@ -1,0 +1,2 @@
+SELECT UPPER(name) AS 'NOM DE TOUS LES GENRES'
+FROM genres ;

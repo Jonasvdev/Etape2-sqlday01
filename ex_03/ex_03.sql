@@ -1,0 +1,1 @@
+select date_format(curdate(), '%Y - %m - %d') as 'date_format';
